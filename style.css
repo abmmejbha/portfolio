@@ -28,11 +28,11 @@ section {
   padding: 10rem 9%;
 }
 img {
-  height: 35vw;
-  box-shadow: inset;
+  max-width: 100%;
+  height: auto;
+  display: block;
   box-shadow: 0 0 2rem var(--main-color);
   border-radius: 2rem;
-  display: inline-block;
   padding: 1rem 1rem;
   background: rgb(77, 0, 77)
 }
@@ -454,3 +454,4 @@ span {
     margin-top: 2rem;
   }
 }
+
