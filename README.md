@@ -8,7 +8,7 @@ Check out my portfolio live at: **[https://abmmejbha.me](https://abmmejbha.me)**
 
 ## 🛠️ Tech Stack & Current Focus
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)
-- **Currently Learning:** 📱 **Dart & Flutter** for cross-platform apps.
+- **Currently Learning:** 📱 **React.js Next.js** for Modern web development.
 - **Deep Dive:** Mastering **Object-Oriented Programming (OOP)** concepts.
 - **Tools:** VS Code, Git, GitHub, and now **GitHub Copilot**!
 
